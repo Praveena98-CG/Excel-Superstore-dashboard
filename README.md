@@ -29,7 +29,12 @@ Analyzed the Sample Superstore dataset to identify which regions, categories, di
 5. Standard Class shipping generates the highest total profit ($163,864), while Same Day contributes the least ($15,872), likely reflecting lower order volume for that shipping option.
 
 ## Dashboard Preview
-*(insert screenshot here)*
+![Dashboard Overview](Screenshot%20Dashboard%20sheet.png)
+
+### Charts Details View
+![Charts 1&2](Screenshot%20by%20zoom(1,2).png)
+![Charts 3&4](Screenshot%20by%20zoom(3,4).png)
+![Charts 5](Screenshot%20by%20zoom(5).png)
 
 ## Files
 - `Superstore_Dashboard.xlsx` — full workbook with cleaned data, PivotTables, and dashboard
